@@ -1,0 +1,20 @@
+name: cache_stream
+description: Cache & manage data streams offline in your flutter application
+version: 1.0.0
+homepage: https://github.com/Samleet/cache_stream
+repository: https://github.com/Samleet/cache_stream
+issue_tracker: https://github.com/Samleet/cache_stream/issues
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.20
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
